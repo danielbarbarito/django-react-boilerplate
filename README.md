@@ -26,7 +26,7 @@ This is a good starting point for modern Python/JavaScript web projects.
 - [ ] Open the command line and go to the directory you want to start your project in.
 - [ ] Start your project using:
 ```
-django-admin startproject theprojectname --extension py,yml,json --name Procfile,README.md,.env.example --template=https://github.com/vintasoftware/django-react-boilerplate/archive/boilerplate-release.zip
+django-admin startproject theprojectname --extension py,yml,json --name Procfile,README.md,.env.example --template=https://github.com/danielbarbarito/django-react-boilerplate/archive/boilerplate-release.zip
 ```
 - [ ] Above: don't forget the `--extension` and `--name` params! (also don't forget to change `theprojectname` to your project's name).
 - [ ] Navigate to the project's directory through your command line.
